@@ -5,9 +5,9 @@ TypeScript is a compiled language, which means that it needs to be compiled or t
 Steps:
 -----------------------------
 1.Install node packages(here, only typescript)
-$ npm i
+$ npm i typescript
 2.Typescript Code Run 
-$ npm run ts file_name.ts
+$ npm run ts <file_name.ts>
 -----------------------------
 
 Note: compiled JS file will output in dist folder
