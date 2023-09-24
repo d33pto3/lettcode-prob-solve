@@ -13,13 +13,5 @@ $ npm i typescript
 $ npm run ts <file_name.ts>
 ```
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
-
 Note: compiled JS file will output in dist folder
 Note: If the problem addressing "duplicatte function implementation" occurs, add "export {}" at the start of your code.
